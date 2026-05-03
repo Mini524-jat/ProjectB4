@@ -1,2 +1,2 @@
-# ProjectB4
-Demo website
+# Birthday Card 🎂 
+Responsive Birthday Card - Made with Jquery and CSS
